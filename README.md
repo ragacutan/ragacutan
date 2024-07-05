@@ -33,4 +33,4 @@ I'm **Ram Adrian N. Gacutan**, an aspiring Information Technology professional w
 ### ⚡ Fun fact: ...
 - I love experimenting with new software tools and technologies to push my creative and technical limits.
 
-[![roadmap.sh](https://roadmap.sh/card/wide/66875ed36cd3b9cc3fb5f369?variant=light)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/66875ed36cd3b9cc3fb5f369?variant=dark&roadmaps=cyber-security%2Cpython%2Cdevops%2Cfull-stack)](https://roadmap.sh)
