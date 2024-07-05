@@ -1,3 +1,5 @@
+![Banner](banner-LinkedIn.png)
+
 ## Hi there 👋
 
 I'm **Ram Adrian N. Gacutan**, an aspiring Information Technology professional with a passion for both technical and creative fields. I recently graduated with a Bachelor of Science in Information Technology from Don Mariano Marcos Memorial State University, Mid La Union Campus.
