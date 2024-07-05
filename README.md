@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**ragacutan/ragacutan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+[![roadmap.sh](https://roadmap.sh/card/wide/66875ed36cd3b9cc3fb5f369?variant=light)](https://roadmap.sh)
